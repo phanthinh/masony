@@ -1,0 +1,25 @@
+body {
+	margin-top: 5px;
+}
+img{
+	width:200px
+}
+
+.mg-t30{
+	margin-top:30px;
+}
+.masonry-brick {
+	margin: 5px;
+	display: none;
+	width:200px;
+}
+
+.masonry-brick.loaded {
+	display: block;
+}
+
+.fixed{
+	position: fixed;
+	top:10px;
+}
+
